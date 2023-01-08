@@ -1,5 +1,3 @@
-print("Script Is Working")
-print("Welcome To Salad X Hub")
 print("scriptiswork")
  print("Welcome Salad X Hub")
  local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
